@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/home/stephanelubendo/Documents/DocumentsToKeep/Coding/ASP.NET/prep1.5/MovieRating/wwwroot/assets/index-4sK4E3Wk.css",
+      "PackagePath": "staticwebassets/assets/index-4sK4E3Wk.css"
+    },
+    {
+      "Id": "/home/stephanelubendo/Documents/DocumentsToKeep/Coding/ASP.NET/prep1.5/MovieRating/wwwroot/assets/index-7jxpP8lE.js",
+      "PackagePath": "staticwebassets/assets/index-7jxpP8lE.js"
+    },
+    {
+      "Id": "/home/stephanelubendo/Documents/DocumentsToKeep/Coding/ASP.NET/prep1.5/MovieRating/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/stephanelubendo/Documents/DocumentsToKeep/Coding/ASP.NET/prep1.5/MovieRating/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MovieRating.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MovieRating.props",
+      "PackagePath": "build\\MovieRating.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MovieRating.props",
+      "PackagePath": "buildMultiTargeting\\MovieRating.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MovieRating.props",
+      "PackagePath": "buildTransitive\\MovieRating.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
